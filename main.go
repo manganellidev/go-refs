@@ -14,4 +14,7 @@ func main () {
 	foundation.Loops()
 	foundation.DecisionMaking()
 	foundation.Arrys()
+	foundation.Maps()
+	foundation.Functions()
+	foundation.Recursion()
 }
