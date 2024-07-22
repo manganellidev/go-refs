@@ -18,4 +18,5 @@ func main () {
 	foundation.Functions()
 	foundation.Recursion()
 	foundation.ControlStructures()
+	foundation.Args()
 }
