@@ -17,4 +17,5 @@ func main () {
 	foundation.Maps()
 	foundation.Functions()
 	foundation.Recursion()
+	foundation.ControlStructures()
 }
