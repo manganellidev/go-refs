@@ -22,4 +22,5 @@ func main () {
 	foundation.Structures()
 	foundation.Interfaces()
 	foundation.Files()
+	foundation.Webserver()
 }
