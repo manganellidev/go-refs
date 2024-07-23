@@ -1,0 +1,1 @@
+Hi, my name is Wagner and this text was created using Go!

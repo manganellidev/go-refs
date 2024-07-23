@@ -21,4 +21,5 @@ func main () {
 	foundation.Args()
 	foundation.Structures()
 	foundation.Interfaces()
+	foundation.Files()
 }
