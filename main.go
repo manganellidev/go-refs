@@ -20,4 +20,5 @@ func main () {
 	foundation.ControlStructures()
 	foundation.Args()
 	foundation.Structures()
+	foundation.Interfaces()
 }
